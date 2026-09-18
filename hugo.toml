@@ -1,0 +1,11 @@
+baseURL = "https://andrejspisiak.github.io/"
+title = "My Blog"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowToc = true
